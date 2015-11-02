@@ -23,6 +23,6 @@ You have 2 choices for installing this template :
 
 ## Screenshots
 
-![Txcycles home](assets/src/screenshots/home.jpg)
+![Txcycles home](assets/screenshots/home.png)
 
-![Txcycles product](assets/src/screenshots/product.jpg)
+![Txcycles product](assets/screenshots/product.png)

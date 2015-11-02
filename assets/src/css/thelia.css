@@ -9869,7 +9869,7 @@ a.label-delivered:focus {
 }
 .option {
   background: #ffffff;
-  border: 1px solid 0;
+  border: 1px solid transparent;
   border-radius: 0;
 }
 .option .option-heading {
@@ -9892,7 +9892,7 @@ a.label-delivered:focus {
 }
 #product #product-details .product-cart {
   background: #ffffff;
-  border: 1px solid 0;
+  border: 1px solid transparent;
   border-radius: 0;
 }
 #product #product-tabs .nav-tabs {
